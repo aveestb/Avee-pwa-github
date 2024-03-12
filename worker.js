@@ -23,14 +23,15 @@
  * SOFTWARE.
  */
 
-const APP_CONFIG = {
+
+    const APP_CONFIG = {
   app: {
     name: 'fineshop-pwa-app'
   },
   github: {
-    username: '<username>',
-    repository: '<repository>',
-    branch: '<branch>',
+    username: 'aveestb',
+    repository: 'Avee-pwa-github',
+    branch: 'main',
     /**
      * If the repository is private, provide token as string
      * otherwise keep it null
