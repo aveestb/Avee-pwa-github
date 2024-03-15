@@ -8,7 +8,7 @@ importScripts(
 // Configurations for PWA App
 const config = {
   app: {
-    name: "pwa-worker",
+    name: "avee-pwa",
     version: "v1",
     precache: "install-time",
     runtime: "run-time",
